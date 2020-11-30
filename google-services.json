@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783712592788",
+    "firebase_url": "https://drivesafe-c28ed.firebaseio.com",
+    "project_id": "drivesafe-c28ed",
+    "storage_bucket": "drivesafe-c28ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783712592788:android:8d8f81fd7c87e46d",
+        "android_client_info": {
+          "package_name": "com.example.drivesafe1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783712592788-h7ojs8tdtmrdfifqak7vkqj44cdamld3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drivesafe1",
+            "certificate_hash": "ed7bc78e5f0152713c5965526aa78899a77ad1ca"
+          }
+        },
+        {
+          "client_id": "783712592788-v2jece4koo7f9hp1je4uod1827cosq2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9JsgUIfeXpD5swyMyD7SV8absfTk4QE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783712592788-v2jece4koo7f9hp1je4uod1827cosq2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
